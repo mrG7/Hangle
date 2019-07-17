@@ -1,0 +1,7 @@
+Issue regarding platform movement reset after initial displacement.
+
+What is Hangle?
+
+How to define limits of movement?
+
+sGenRev.generate(-MAXVELOCITY[0],-MAXVELOCITY[1],-MAXVELOCITY[2],-MAXVELOCITY[3],-MAXVELOCITY[4],-MAXVELOCITY[5],ID,'C',1) # generate smooth reversal
